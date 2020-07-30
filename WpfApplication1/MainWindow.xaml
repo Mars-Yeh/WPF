@@ -9,6 +9,7 @@
     
     <Grid>
         <Button x:Name="button" Content="HolleWorld" HorizontalAlignment="Left" Margin="216,231,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <RadioButton x:Name="radioButton" Content="RadioButton" HorizontalAlignment="Left" Margin="216,148,0,0" VerticalAlignment="Top"/>
     </Grid>
     
 </Window>
